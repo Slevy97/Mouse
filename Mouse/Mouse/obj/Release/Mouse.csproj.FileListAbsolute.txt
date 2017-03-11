@@ -1,0 +1,10 @@
+C:\Users\Sorin\Desktop\Mouse\Mouse\bin\Release\Mouse.exe.config
+C:\Users\Sorin\Desktop\Mouse\Mouse\bin\Release\Mouse.exe
+C:\Users\Sorin\Desktop\Mouse\Mouse\bin\Release\Mouse.pdb
+C:\Users\Sorin\Desktop\Mouse\Mouse\obj\Release\Mouse.csprojResolveAssemblyReference.cache
+C:\Users\Sorin\Desktop\Mouse\Mouse\obj\Release\Mouse.canvas.resources
+C:\Users\Sorin\Desktop\Mouse\Mouse\obj\Release\Mouse.Lose.resources
+C:\Users\Sorin\Desktop\Mouse\Mouse\obj\Release\Mouse.Properties.Resources.resources
+C:\Users\Sorin\Desktop\Mouse\Mouse\obj\Release\Mouse.csproj.GenerateResource.Cache
+C:\Users\Sorin\Desktop\Mouse\Mouse\obj\Release\Mouse.exe
+C:\Users\Sorin\Desktop\Mouse\Mouse\obj\Release\Mouse.pdb
